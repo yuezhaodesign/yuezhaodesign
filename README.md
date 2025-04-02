@@ -2,7 +2,7 @@
 
 ### I'm a Product Designer & Engineer with extensive experience in **AI-driven products**. 
 
-I'm currently pursuing my Master of Science at Penn. My interests lie in product design, user experience design, front-end development, travel, books and video games. I have developed many interesting projects using HTML, CSS, JavaScript and Python. Check them out here:
+I'm currently pursuing my **Master of Science at Penn**. My interests lie in product design, user experience design, front-end development, travel, books and video games. I have developed many interesting projects using **HTML, CSS, JavaScript and Python**. Check them out here:
 
 ## Digital Kaleidoscope: Play with Light & Shapes
 
@@ -105,4 +105,20 @@ During my travels, I lost a mouse that had been my constant companion for three 
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/time-capsule-treasures.git)
 
 
+## Genius Talk: Conversations with History’s Greatest Minds
 
+Genius Talk is an AI-powered conversational platform that bridges time and space, allowing users to engage in lifelike dialogues with history’s most brilliant minds—from Einstein to the enigmatic Mona Lisa. Developed in collaboration with my teammate Ruby, this project combines OpenAI’s text generation with Murf API’s expressive TTS (text-to-speech) to deliver an immersive, educational, and entertaining experience.
+
+### ✨ Key Features
+- **Meet the Legends**: Chat with scientists, artists, and historical icons—all powered by AI.
+- **Voice Interaction**: Natural-sounding TTS brings each character’s responses to life.
+- **Learn & Explore**: Ask questions, debate ideas, or simply enjoy a conversation with the past.
+
+### Behind the Scenes
+
+- **Tech Stack**: OpenAI API (text generation) + Murf API (voice synthesis)
+- **Team**: Collaborated with Ruby (teammate) during our last semester project.
+
+### See the Demo
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/renjx0425/genius-talk.git)
