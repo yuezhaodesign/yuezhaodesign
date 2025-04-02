@@ -1,6 +1,6 @@
 # Hi everyone, this is Yue!👋 
 
-### I'm a Product Designer & Engineer with extensive experience in **AI-driven products**. Check my product design portfolio [here](https://yuez.design/).
+### I'm a Product Designer & Engineer with extensive experience in **AI-driven products**. See my design portfolio [here](https://yuez.design/).
 
 I'm currently pursuing my **Master of Science at Penn**. My interests lie in product design, user experience design, front-end development, travel, books and video games. I have developed many interesting projects using **HTML, CSS, JavaScript and Python**. Check them out here:
 
