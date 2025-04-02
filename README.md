@@ -16,8 +16,6 @@ Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this proj
 
 No looking glass required.
 
-<a href="yuezhaodesign.github.io/Kaleidoscope/">
-<img width="1143" alt="Screenshot 2025-04-02 at 14 24 04" src="https://github.com/user-attachments/assets/1b4b1591-0e0d-4b90-ba82-0da4bbfcac34" />
-</a>
+[![Kaleidoscope Demo](https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true)](https://yuezhaodesign.github.io/Kaleidoscope/)
 
 
