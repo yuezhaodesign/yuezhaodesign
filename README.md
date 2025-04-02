@@ -1,6 +1,6 @@
-# 👋 Hi everyone, this is Yue!
+# Hi everyone, this is Yue!👋 
 
-### I'm a Product Designer & Engineer with extensive experience in **AI-driven products**. 
+### I'm a Product Designer & Engineer with extensive experience in **AI-driven products**. Check my product design portfolio [here](https://yuez.design/).
 
 I'm currently pursuing my **Master of Science at Penn**. My interests lie in product design, user experience design, front-end development, travel, books and video games. I have developed many interesting projects using **HTML, CSS, JavaScript and Python**. Check them out here:
 
@@ -8,7 +8,7 @@ I'm currently pursuing my **Master of Science at Penn**. My interests lie in pro
 
 Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this project, you can dive into a digital wonderland—where every mouse movement twists and transforms vibrant shapes into hypnotic symmetry.
 
-### ✨ Features:
+### Features✨ :
 
 - **Interactive Play**: Swirl your mouse to create endless, flowing patterns.
 - **Shape Shifter**: Toggle between circles and squares—pick your aesthetic!
@@ -30,7 +30,7 @@ No looking glass required.
 
 Let our magic do the rest. Snowdrop automatically sends the heartfelt letter you’ve prepared—the very moment the first snowflakes touch the ground. No hesitation, no missed chances—just pure, timely romance.
 
-### ✨ Why it works:
+### Why it works ✨:
 
 - **Perfect Timing**: Your words arrive when the world feels most magical.
 - **Effortless Romance**: Write once, and we deliver at the ideal moment.
@@ -75,7 +75,7 @@ The healthy clock is your health assistant accompanying you every day. You can o
 
 Meet Healthy Clock—your gentle, stylish reminder to stay hydrated, active, and balanced throughout the day.
 
-### 🌿 Features:
+### Features🌿 :
 
 - **Hydration Reminder**: The clock "fills up" with water—when it’s full, it’s time to drink!
 - **Ambient Activity Lighting**: Soft, adaptive glow for work, relaxation, or focus.
@@ -109,7 +109,7 @@ During my travels, I lost a mouse that had been my constant companion for three 
 
 Genius Talk is an AI-powered conversational platform that bridges time and space, allowing users to engage in lifelike dialogues with history’s most brilliant minds—from Einstein to the enigmatic Mona Lisa. Developed in collaboration with my teammate Ruby, this project combines OpenAI’s text generation with Murf API’s expressive TTS (text-to-speech) to deliver an immersive, educational, and entertaining experience.
 
-### ✨ Key Features
+### Key Features✨:
 - **Meet the Legends**: Chat with scientists, artists, and historical icons—all powered by AI.
 - **Voice Interaction**: Natural-sounding TTS brings each character’s responses to life.
 - **Learn & Explore**: Ask questions, debate ideas, or simply enjoy a conversation with the past.
@@ -120,5 +120,18 @@ Genius Talk is an AI-powered conversational platform that bridges time and space
 - **Team**: Collaborated with Ruby (teammate) during our last semester project.
 
 ### See the Demo
+[![Genius Talk Demo](https://img.youtube.com/vi/EFahpgsId9Q/0.jpg)](https://youtu.be/EFahpgsId9Q)
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/renjx0425/genius-talk.git)
+
+
+
+# Let’s Connect! ☕️✨
+
+Wanna chat or collaborate? I’d love to hear from you!
+
+📧 Email: [janie.zhaoy@gmail.com](mailto:janie.zhaoy@gmail.com)
+💼 LinkedIn: [Yue Zhao](https://www.linkedin.com/in/yue-zhao-janie/)
+🗓 Coffee Chat: [Schedule a 30-min call](https://calendly.com/janie-zhaoy/30min)
+
+### Open for projects, creative ideas, or just a friendly hello! 🌟
