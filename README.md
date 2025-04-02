@@ -17,7 +17,10 @@ Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this proj
 No looking glass required.
 
 ### Try it now:
-[![Kaleidoscope Demo](https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true)](https://yuezhaodesign.github.io/Kaleidoscope/)
+<a href="https://yuezhaodesign.github.io/Kaleidoscope/">
+  <img src="https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/Kaleidoscope)
 
 
@@ -36,7 +39,10 @@ Let our magic do the rest. Snowdrop automatically sends the heartfelt letter you
 Ready to melt their heart?
 
 ### Try it now:
-[![Snow Demo](https://github.com/yuezhaodesign/images/blob/main/firstsnow.png?raw=true)](https://yuez.design/FirstSnowfall/)
+<a href="https://yuez.design/FirstSnowfall/">
+  <img src="https://github.com/yuezhaodesign/images/blob/main/firstsnow.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/FirstSnowfall.git)
 
 
@@ -54,7 +60,10 @@ What happens when a curious cat meets a mischievous laser dot? This three-scene 
 Warning: Side effects may include catnip-fueled revenge.
 
 ### Try it now:
-[![Cat Demo](https://github.com/yuezhaodesign/images/blob/main/cat.png?raw=true)](https://yuez.design/IfYouGiveACatALaser/)
+<a href="https://yuez.design/IfYouGiveACatALaser/">
+  <img src="https://github.com/yuezhaodesign/images/blob/main/cat.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+</a>
+
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)
 
 
@@ -75,9 +84,9 @@ Meet Healthy Clock—your gentle, stylish reminder to stay hydrated, active, and
 Let Healthy Clock nurture your well-being, one sip and one moment at a time.
 
 ### Try it now:
-[![Clock Demo](https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true)](https://editor.p5js.org/yuezhaodesign/sketches/rUBhNCf-D)
-
-
+<a href="https://editor.p5js.org/yuezhaodesign/sketches/rUBhNCf-D">
+  <img src="https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+</a>
 
 
 
