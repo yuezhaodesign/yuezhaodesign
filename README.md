@@ -16,7 +16,7 @@ Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this proj
 
 No looking glass required.
 
-### Demo
+### Try it now:
 [![Kaleidoscope Demo](https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true)](https://yuezhaodesign.github.io/Kaleidoscope/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/Kaleidoscope)
 
@@ -35,7 +35,7 @@ Let our magic do the rest. Snowdrop automatically sends the heartfelt letter you
 
 Ready to melt their heart?
 
-### Demo
+### Try it now:
 [![Snow Demo](https://github.com/yuezhaodesign/images/blob/main/firstsnow.png?raw=true)](https://yuez.design/FirstSnowfall/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/FirstSnowfall.git)
 
@@ -53,7 +53,31 @@ What happens when a curious cat meets a mischievous laser dot? This three-scene 
 
 Warning: Side effects may include catnip-fueled revenge.
 
-### Demo
+### Try it now:
 [![Cat Demo](https://github.com/yuezhaodesign/images/blob/main/cat.png?raw=true)](https://yuez.design/IfYouGiveACatALaser/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)
+
+
+## Healthy Clock
+
+The healthy clock is your health assistant accompanying you every day. You can open the atmosphere light for different activities and open the drink water reminder so that when the clock is filled with water, it's time to insert a glass of water. Keep healthy with healthy clock!
+
+## Healthy Clock ⏰💧✨ – Your Daily Wellness Companion
+
+Meet Healthy Clock—your gentle, stylish reminder to stay hydrated, active, and balanced throughout the day.
+
+### 🌿 Features:
+
+- **Hydration Reminder**: The clock "fills up" with water—when it’s full, it’s time to drink!
+- **Ambient Activity Lighting**: Soft, adaptive glow for work, relaxation, or focus.
+- **Seamless Routine**: Effortlessly build healthier habits with intuitive cues.
+
+Let Healthy Clock nurture your well-being, one sip and one moment at a time.
+
+### Try it now:
+[![Clock Demo](https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true)](https://editor.p5js.org/yuezhaodesign/sketches/rUBhNCf-D)
+
+
+
+
 
