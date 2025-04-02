@@ -54,6 +54,6 @@ What happens when a curious cat meets a mischievous laser dot? This three-scene 
 Warning: Side effects may include catnip-fueled revenge.
 
 ### Demo
-[![Cat Demo](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)](https://yuez.design/IfYouGiveACatALaser/)
+[![Cat Demo](https://github.com/yuezhaodesign/images/blob/main/cat.png?raw=true)](https://yuez.design/IfYouGiveACatALaser/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)
 
