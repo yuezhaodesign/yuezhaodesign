@@ -18,7 +18,7 @@ No looking glass required.
 
 ### Try it now:
 <a href="https://yuezhaodesign.github.io/Kaleidoscope/">
-  <img src="https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+  <img src="https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true" alt="Kaleidoscope Demo" style="width:40%; min-width:150px;"/>
 </a>
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/Kaleidoscope)
@@ -85,8 +85,24 @@ Let Healthy Clock nurture your well-being, one sip and one moment at a time.
 
 ### Try it now:
 <a href="https://editor.p5js.org/yuezhaodesign/sketches/rUBhNCf-D">
-  <img src="https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
+  <img src="https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true" alt="Healthy Clock Demo" style="width:40%; min-width:150px;"/>
 </a>
+
+
+## Time Capsule Treasures 🕰️📦
+
+During my travels, I lost a mouse that had been my constant companion for three years. Its absence left me unexpectedly adrift - we'd formed a quiet bond through countless hours of work and creation. When I realized I had no photos to remember it by, I was heartbroken.
+
+### So I did two things:
+- Bought an identical replacement
+- Created this digital memorial
+
+### Website:
+<a href="https://yuez.design/time-capsule-treasures/">
+  <img src="https://github.com/yuezhaodesign/images/blob/main/timecapsule.png?raw=true" alt="Time Capsule Treasures Demo" style="width:40%; min-width:150px;"/>
+</a>
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/time-capsule-treasures.git)
 
 
 
