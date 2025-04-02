@@ -9,7 +9,7 @@ I'm currently pursuing my **Master of Science at Penn**. My interests lie in pro
 ## Genius Talk: Conversations with History’s Greatest Minds
 Genius Talk is an AI-powered conversational platform that bridges time and space, allowing users to engage in lifelike dialogues with history’s most brilliant minds—from Einstein to the enigmatic Mona Lisa. Developed in collaboration with my teammate Ruby, this project combines OpenAI’s text generation with Murf API’s expressive TTS (text-to-speech) to deliver an immersive, educational, and entertaining experience.
 
-### Key Features✨:
+### Key Features✨
 - **Meet the Legends**: Chat with scientists, artists, and historical icons—all powered by AI.
 - **Voice Interaction**: Natural-sounding TTS brings each character’s responses to life.
 - **Learn & Explore**: Ask questions, debate ideas, or simply enjoy a conversation with the past.
@@ -28,14 +28,14 @@ Genius Talk is an AI-powered conversational platform that bridges time and space
 ## Digital Kaleidoscope: Play with Light & Shapes
 Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this project, you can dive into a digital wonderland—where every mouse movement twists and transforms vibrant shapes into hypnotic symmetry.
 
-### Features✨ :
+### Features✨ 
 - **Interactive Play**: Swirl your mouse to create endless, flowing patterns.
 - **Shape Shifter**: Toggle between circles and squares—pick your aesthetic!
 - **Alice-Worthy Magic**: Feel like you’ve tumbled into a surreal, ever-changing dreamscape.
 
 No looking glass required.
 
-### Try it now:
+### Try it now
 <a href="https://yuezhaodesign.github.io/Kaleidoscope/">
   <img src="https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true" alt="Kaleidoscope Demo" style="width:40%; min-width:150px;"/>
 </a>
@@ -48,14 +48,14 @@ No looking glass required.
 ### "They say if you confess your feelings on the day of the first snowfall, love is destined to bloom."
 Let our magic do the rest. Snowdrop automatically sends the heartfelt letter you’ve prepared—the very moment the first snowflakes touch the ground. No hesitation, no missed chances—just pure, timely romance.
 
-### Why it works ✨:
+### Why it works ✨
 - **Perfect Timing**: Your words arrive when the world feels most magical.
 - **Effortless Romance**: Write once, and we deliver at the ideal moment.
 - **No Regrets**: Never miss the first snowfall again.
 
 Ready to melt their heart?
 
-### Try it now:
+### Try it now
 <a href="https://yuez.design/FirstSnowfall/">
   <img src="https://github.com/yuezhaodesign/images/blob/main/firstsnow.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
 </a>
@@ -67,7 +67,7 @@ Ready to melt their heart?
 ## "If You Give a Cat a Laser..." 🐱🔦
 What happens when a curious cat meets a mischievous laser dot? This three-scene animation reveals the secret life of your feline overlord—from stealthy prowler to accidental helicopter pilot—as it navigates the baffling human world.
 
-### Scene Breakdown:
+### Scene Breakdown
 - **The Stalker**: Watch Mittens transform into a ninja hunting the elusive red dot.
 - **The Philosopher**: Pause mid-chase. "Why does the universe deny me this glory?"
 - **The Helicopter**: Pat the note on its tail—now witness the world’s first feline rotorcraft.
@@ -75,7 +75,7 @@ What happens when a curious cat meets a mischievous laser dot? This three-scene 
 
 Warning: Side effects may include catnip-fueled revenge.
 
-### Try it now:
+### Try it now
 <a href="https://yuez.design/IfYouGiveACatALaser/">
   <img src="https://github.com/yuezhaodesign/images/blob/main/cat.png?raw=true" alt="Cat Demo" style="width:40%; min-width:150px;"/>
 </a>
@@ -87,14 +87,14 @@ Warning: Side effects may include catnip-fueled revenge.
 ## Healthy Clock ⏰💧✨ – Your Daily Wellness Companion
 Meet Healthy Clock—your gentle, stylish reminder to stay hydrated, active, and balanced throughout the day.
 
-### Features🌿 :
+### Features🌿 
 - **Hydration Reminder**: The clock "fills up" with water—when it’s full, it’s time to drink!
 - **Ambient Activity Lighting**: Soft, adaptive glow for work, relaxation, or focus.
 - **Seamless Routine**: Effortlessly build healthier habits with intuitive cues.
 
 Let Healthy Clock nurture your well-being, one sip and one moment at a time.
 
-### Try it now:
+### Try it now
 <a href="https://editor.p5js.org/yuezhaodesign/sketches/rUBhNCf-D">
   <img src="https://github.com/yuezhaodesign/images/blob/main/clock.png?raw=true" alt="Healthy Clock Demo" style="width:40%; min-width:150px;"/>
 </a>
@@ -104,11 +104,11 @@ Let Healthy Clock nurture your well-being, one sip and one moment at a time.
 ## Time Capsule Treasures 🕰️📦
 During my travels, I lost a mouse that had been my constant companion for three years. Its absence left me unexpectedly adrift - we'd formed a quiet bond through countless hours of work and creation. When I realized I had no photos to remember it by, I was heartbroken.
 
-### So I did two things:
+### So I did two things
 - Bought an identical replacement
 - Created this digital memorial
 
-### Website:
+### Website
 <a href="https://yuez.design/time-capsule-treasures/">
   <img src="https://github.com/yuezhaodesign/images/blob/main/timecapsule.png?raw=true" alt="Time Capsule Treasures Demo" style="width:40%; min-width:150px;"/>
 </a>
