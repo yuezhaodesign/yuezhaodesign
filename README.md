@@ -16,8 +16,10 @@ Ever lose yourself in the mesmerizing patterns of a kaleidoscope? With this proj
 
 No looking glass required.
 
+### Demo
 [![Kaleidoscope Demo](https://github.com/yuezhaodesign/images/blob/main/Kaleidoscope.png?raw=true)](https://yuezhaodesign.github.io/Kaleidoscope/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/Kaleidoscope)
+
 
 ## First Snowfall Confession ✉️❄️
 
@@ -32,11 +34,26 @@ Let our magic do the rest. Snowdrop automatically sends the heartfelt letter you
 - **No Regrets**: Never miss the first snowfall again.
 
 Ready to melt their heart?
+
+### Demo
 [![Snow Demo](https://github.com/yuezhaodesign/images/blob/main/firstsnow.png?raw=true)](https://yuez.design/FirstSnowfall/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/FirstSnowfall.git)
 
 
+## "If You Give a Cat a Laser..." 🐱🔦
 
+What happens when a curious cat meets a mischievous laser dot? This three-scene animation reveals the secret life of your feline overlord—from stealthy prowler to accidental helicopter pilot—as it navigates the baffling human world.
 
+### Scene Breakdown:
+
+- **The Stalker**: Watch Mittens transform into a ninja hunting the elusive red dot.
+- **The Philosopher**: Pause mid-chase. "Why does the universe deny me this glory?"
+- **The Helicopter**: Pat the note on its tail—now witness the world’s first feline rotorcraft.
+**✂️ Create Your Own Chaos**: Pat the note on the tail of the cat and wait to see a cat helicopter!
+
+Warning: Side effects may include catnip-fueled revenge.
+
+### Demo
+[![Cat Demo](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)](https://yuez.design/IfYouGiveACatALaser/)
 [![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/yuezhaodesign/IfYouGiveACatALaser.git)
 
